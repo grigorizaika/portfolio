@@ -1,0 +1,1 @@
+In case the notebook isn't displayed properly, here is an alternative link: https://nbviewer.jupyter.org/github/grigorizaika/cats-dogs-recognition/blob/master/Cats%20and%20Dogs%20Classification%20with%20TensorFlow%20and%20Keras.ipynb
